@@ -1,0 +1,2 @@
+#### Layer1、Layer2区别
+- 参考 [区块链Layer1是什么意思？Layer1和Layer2区别详解-币圈子.pdf](static%2F%E5%8C%BA%E5%9D%97%E9%93%BELayer1%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%EF%BC%9FLayer1%E5%92%8CLayer2%E5%8C%BA%E5%88%AB%E8%AF%A6%E8%A7%A3-%E5%B8%81%E5%9C%88%E5%AD%90.pdf)
